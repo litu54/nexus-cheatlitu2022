@@ -14,6 +14,8 @@ sudo apt-get update
 
 #1: Install OpenJDK 1.8 on Ubuntu 20.04 LTS
 sudo apt install openjdk-8-jre-headless
+
+
 #2: Download Nexus Repository Manager setup on Ubuntu 20.04 LTS
 Download the latest Nexus Repository Manager Setup from official nexus page.
 
@@ -23,6 +25,7 @@ cd /opt
 Download the SonaType Nexus on Ubuntu using wget
 
 sudo wget https://download.sonatype.com/nexus/3/latest-unix.tar.gz
+
 #3: Install Nexus Repository on Ubuntu 20.04 LTS
 Extract the Nexus repository setup in /opt directory
 
@@ -127,7 +130,12 @@ Change the default nexus admin password
 How to Install Nexus Repository on Ubuntu 20.04 LTS 4
 configure Anonymous Access
 
+![image](https://user-images.githubusercontent.com/79752469/154050877-143f5b6b-eacf-4daa-826d-ef7b61edf821.png)
+
+![image](https://user-images.githubusercontent.com/79752469/154050779-aa421e39-7fa0-4f98-bf73-56b39dd35b0f.png)
+
 How to Install Nexus Repository on Ubuntu 20.04 LTS 5
 click on Finish.
+![image](https://user-images.githubusercontent.com/79752469/154050936-edebd19d-7cc6-4af1-9698-4c1d4773af99.png)
 
 How to Install Nexus Repository on Ubuntu 20.04 LTS 6
